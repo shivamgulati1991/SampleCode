@@ -5,7 +5,7 @@ var os   = require("os");
 var fs = require('fs');
 
 var config = {};
-config.token = "76b51a55b47db23c90ce7eadc79f821778a7d020d7afe0c835d97f2dbad6501f";  //Enter
+config.token = "--";  //Enter
 
 var headers =
 {

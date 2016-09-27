@@ -4,12 +4,13 @@
   "description": "\"Server HW1\"",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/mytest.js"
   },
   "author": "Shivam Gulati",
   "license": "ISC",
   "devDependencies": {
     "needle": "^0.7.10",
-    "aws-sdk":"^2.6.1"
+    "aws-sdk":"^2.6.1",
+    "unit.js":"^2.0.0"
   }
 }
